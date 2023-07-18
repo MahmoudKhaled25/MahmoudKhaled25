@@ -1,5 +1,9 @@
 ### Hi there 👋
+### Welcome to Mahmoud Khaled Profile 
 
+- 🌱 I’m currently learning Embedded Systems
+- 👨‍💻 Intersted about interacting with hardware from a software perspective
+- 📫 How to reach me: mahmoud.khalid.mo@gmail.com 
 <!--
 **MahmoudKhaled25/MahmoudKhaled25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
