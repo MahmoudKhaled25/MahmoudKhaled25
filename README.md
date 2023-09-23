@@ -1,6 +1,8 @@
+<img width="300" align="right" src="https://media.tenor.com/lN2h_m1Q14oAAAAC/arduino-running.gif">
+
 <h3 align="center">
   Welcome to Mahmoud Khaled's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <img src="https://media.tenor.com/A7eequnhcGwAAAAC/hand.gif" width="30">
 </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -16,6 +18,7 @@
 ### 🛠 &nbsp;Tech Stack
 ![C++](https://img.shields.io/badge/C++-05122A?style=flat&logo=cplusplus&logoColor=00599C)
 ![C Programming](https://img.shields.io/badge/-C%20Programming-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![PIC](https://img.shields.io/badge/-PIC%20Microcontroller-05122A?style=flat)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=Arduino&logoColor=00979D)&nbsp;
