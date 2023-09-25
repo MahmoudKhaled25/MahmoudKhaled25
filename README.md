@@ -2,7 +2,7 @@
 
 <h3 align="center">
   Welcome to Mahmoud Khaled's profile!
-  <img src="https://media.tenor.com/A7eequnhcGwAAAAC/hand.gif" width="30">
+  <img src="https://tenor.com/kLfIqUHq4PO.gif" width="30">
 </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
