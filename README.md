@@ -1,4 +1,4 @@
-<img width="300" align="right" src="https://media.tenor.com/lN2h_m1Q14oAAAAC/arduino-running.gif">
+<img width="300" align="right" src="2024-02-01-00-03-49.gif">
 
 <h3 align="center">
   Welcome to Mahmoud Khaled's profile!
